@@ -119,12 +119,5 @@ training:
 - For custom datasets, adapt the `parse_aida_conll` and `build_graph_for_document` functions as needed.
 - The `evaluate.py` and `predict.py` scripts require a trained model checkpoint (by default, `best_model.pt` in your save directory).
 
----
-
-## Citation
-
-@https://arxiv.org/abs/2311.08526
-
----
 
 **Maintainer:** Prabhat Kumar

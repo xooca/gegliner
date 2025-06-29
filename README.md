@@ -2,6 +2,7 @@
 
 GEGLiNER is a research-oriented framework for Named Entity Recognition (NER) and Entity Linking that combines transformer-based models with knowledge graph (KG) structure using Graph Neural Networks (GNNs). It is designed for experiments on datasets like AIDA-CoNLL and supports graph-based enhancements for entity disambiguation.
 
+##NOTE : Code is under development
 ---
 
 ## Features

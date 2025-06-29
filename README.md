@@ -126,4 +126,4 @@ If you use this codebase in your research, please cite the original GEGLiNER pap
 
 ---
 
-**Maintainer:** [Your Name]
+**Maintainer:** Prabhat Kumar

@@ -122,7 +122,7 @@ training:
 
 ## Citation
 
-If you use this codebase in your research, please cite the original GEGLiNER paper (if available) or this repository.
+@https://arxiv.org/abs/2311.08526
 
 ---
 
